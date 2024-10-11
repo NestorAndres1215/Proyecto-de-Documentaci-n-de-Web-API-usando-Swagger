@@ -1,0 +1,189 @@
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.Development.json
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.json
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.exe
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.deps.json
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.json
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.dev.json
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\ref\WebAPI_BDNOTAS2020.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Humanizer.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.AssemblyReference.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.GeneratedMSBuildEditorConfig.editorconfig
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfoInputs.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfo.cs
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.CoreCompileInputs.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cs
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.Manifest.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.xml
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\scopedcss\bundle\WebAPI_BDNOTAS2020.styles.css
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.RazorTargetAssemblyInfo.cache
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.CopyComplete
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\ref\WebAPI_BDNOTAS2020.dll
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+E:\HP02_Jueves\Semana_09\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.genruntimeconfig.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.Development.json
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.json
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.exe
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.deps.json
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.json
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.dev.json
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\ref\WebAPI_BDNOTAS2020.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Humanizer.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.AssemblyReference.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.GeneratedMSBuildEditorConfig.editorconfig
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfoInputs.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfo.cs
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.CoreCompileInputs.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cs
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.Manifest.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.xml
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\scopedcss\bundle\WebAPI_BDNOTAS2020.styles.css
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.RazorTargetAssemblyInfo.cache
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.CopyComplete
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\ref\WebAPI_BDNOTAS2020.dll
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+E:\ANTES\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.genruntimeconfig.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.Development.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\appsettings.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.StaticWebAssets.xml
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.exe
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.deps.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.runtimeconfig.dev.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Humanizer.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.AssemblyReference.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfoInputs.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.AssemblyInfo.cs
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.sourcelink.json
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\scopedcss\bundle\WebAPI_BDNOTAS2020.styles.css
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.Manifest.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\WebAPI_BDNOTAS2020.StaticWebAssets.Pack.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\msbuild.WebAPI_BDNOTAS2020.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAPI_BDNOTAS2020.props
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_BDNOTAS2020.props
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAPI_BDNOTAS2020.props
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_B.1856BD1F.Up2Date
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\refint\WebAPI_BDNOTAS2020.dll
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.pdb
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\WebAPI_BDNOTAS2020.genruntimeconfig.cache
+D:\Proyectos\Proyecto C#\WebAPI_BDNOTAS2020\WebAPI_BDNOTAS2020\obj\Debug\net5.0\ref\WebAPI_BDNOTAS2020.dll
