@@ -1,22 +1,56 @@
 # Web API con Swagger en Visual Studio
 
-Este proyecto muestra cómo implementar y documentar una Web API utilizando Swagger en Visual Studio. Swagger facilita la creación de documentación interactiva y clara para tus API, permitiendo a los desarrolladores y usuarios entender cómo interactuar con el servicio de manera eficiente.
+Este proyecto demuestra cómo implementar y documentar una Web API utilizando Swagger en Visual Studio. Swagger facilita la creación de documentación interactiva y clara para tus API, permitiendo a los desarrolladores y usuarios entender y probar los endpoints de manera eficiente.
 
-## Características
+## 🚀 Características
 
-- **Documentación automática de la API**: Swagger genera documentación basada en los comentarios de código y las anotaciones, asegurando que siempre esté actualizada.
-- **Interfaz de usuario interactiva para probar los endpoints**: Proporciona una forma sencilla de probar y explorar los endpoints directamente desde el navegador.
-- **Soporte para autenticación y autorización**: Permite agregar mecanismos de seguridad como JWT (JSON Web Tokens) o autenticación básica.
-- **Configuración fácil y rápida**: Integración sencilla en proyectos existentes de ASP.NET.
-- **Versionado de la API**: Posibilidad de documentar diferentes versiones de la API para facilitar la migración y mantenimiento.
+- 📜 **Documentación automática**: Swagger genera documentación basada en los comentarios del código y las anotaciones, asegurando que siempre esté actualizada.
+- 🌐 **Interfaz interactiva**: Proporciona una forma sencilla de probar y explorar los endpoints directamente desde el navegador.
+- 🔒 **Soporte para autenticación y autorización**: Compatible con mecanismos de seguridad como JWT (JSON Web Tokens) o autenticación básica.
+- ⚡ **Fácil integración**: Configuración rápida y sencilla en proyectos existentes de ASP.NET.
+- 🔄 **Versionado de la API**: Permite documentar diferentes versiones para facilitar la migración y mantenimiento.
 
-## Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
-- **.NET Core / .NET 5 o superior**: Plataforma de desarrollo para construir aplicaciones modernas.
-- **ASP.NET Web API**: Framework para construir servicios HTTP que pueden ser consumidos por cualquier cliente.
-- **Swagger (Swashbuckle)**: Herramienta que permite generar documentación y una interfaz de usuario para probar la API.
-- **Entity Framework Core**: ORM para acceder a bases de datos de forma sencilla y eficiente (si es aplicable).
+- **.NET Core / .NET 5 o superior**: Plataforma de desarrollo moderna y flexible.
+- **ASP.NET Web API**: Framework para construir servicios HTTP escalables.
+- **Swagger (Swashbuckle)**: Generador de documentación y UI interactiva para probar la API.
+- **Entity Framework Core**: ORM para acceder a bases de datos de forma eficiente (si es aplicable).
 - **SQL Server / Base de datos elegida**: Sistema de gestión de bases de datos utilizado para almacenar información.
-![image](https://github.com/user-attachments/assets/dafad027-6e69-4448-8498-b7c9a325472a)
-![image](https://github.com/user-attachments/assets/65dca8e6-c0cd-4bb9-a7de-40c73edfd505)
+
+## 📷 Capturas de Pantalla
+
+### 🌍 Interfaz de Swagger
+![Swagger UI](https://github.com/user-attachments/assets/dafad027-6e69-4448-8498-b7c9a325472a)
+
+### 🔍 Ejemplo de Endpoint Documentado
+![Ejemplo de API](https://github.com/user-attachments/assets/65dca8e6-c0cd-4bb9-a7de-40c73edfd505)
+
+## 📌 Instalación y Configuración
+
+1. **Clonar el repositorio**:
+   ```sh
+   git clone https://github.com/NestorAndres1215/Proyecto-de-Documentaci-n-de-Web-API-usando-Swagger.git
+   cd web-api-swagger
+   ```
+
+2. **Restaurar paquetes y compilar**:
+   ```sh
+   dotnet restore
+   dotnet build
+   ```
+
+3. **Ejecutar la API**:
+   ```sh
+   dotnet run
+   ```
+
+4. **Abrir Swagger en el navegador**:
+   ```
+   http://localhost:5000/swagger
+   ```
+
+## 📜 Licencia
+
+Este proyecto está disponible bajo la licencia MIT. ¡Siéntete libre de contribuir! 🚀
 
